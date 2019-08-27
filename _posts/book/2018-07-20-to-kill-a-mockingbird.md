@@ -1,7 +1,7 @@
 ---
 layout: post
 header: reading
-title: "To Kill a Mockingbird"
+title: "To be edited "
 subtitle: Harper Lee
 subtitle_link: https://en.wikipedia.org/wiki/Harper_Lee
 tags: [fiction]
