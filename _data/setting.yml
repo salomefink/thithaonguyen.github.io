@@ -6,10 +6,10 @@ author:
   avatar: /img/avatar.png
   cv: /files/mycv.pdf
   mynote:
-    url: https://mynote.dinhanhthi.com
-    text: <span>mynote</span>.dinhanhthi.com
+    url:
+    text: 
     description: 
-    img: /img/mynote.png
+    img:
 
 # number of challenge books
 ncb: 10

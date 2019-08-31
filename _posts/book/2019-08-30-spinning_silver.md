@@ -7,7 +7,7 @@ subtitle_link: https://en.wikipedia.org/wiki/Naomi_Novik
 tags: [fiction]
 img: spinning_silver_thumbnail.jpg
 categories: reading
-rating: 4.5
+rating:
 ---
 
 <h4 class="post-more">Information</h4>
@@ -19,9 +19,4 @@ rating: 4.5
 - **Author**: [Naomi Novik]
 - **Published**: 2018 (MACMILLAN).
 
-
-
-I picked up this novel because you summarised it to me before and I accidentally saw it when wondering in Toowong library.
-
-So far, there are three different narratives.
 
