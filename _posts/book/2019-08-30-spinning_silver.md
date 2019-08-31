@@ -25,6 +25,8 @@ Below comments are in Vietnamese, please wait for an English version.
 
 I picked up this novel because you summarised it to me before and I accidentally saw it when wondering in Toowong library.
 
+So far, there are three different narratives 
+
 Sách này không dễ đọc, quả thật là vậy, nhất là khi đọc nó, ta phải liên tưởng nhiều đến những việc chúng ta đã từng hoặc đang trải nghiệm. Có những chỗ Dan gợi mở cho ta thấy những hành động thường ngày của chúng ta là rất phi lý trí nhưng ông không giải thích gì thêm. Cũng có những chỗ ông gợi mở, giải thích và rút ra kết luận rõ ràng. Chung quy lại, ông thường đưa ra những lời khuyên cho chúng ta sau mỗi thí nghiệm và luận điểm ông đưa ra.
 
 {% include img/right.html src="/img/post/book/dan-ariely.jpg" des="Dan Ariely (Credit: Reboot)." %}
