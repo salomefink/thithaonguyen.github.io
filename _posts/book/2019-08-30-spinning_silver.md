@@ -5,7 +5,7 @@ title: Spinning Silver
 subtitle: Naomi Novik
 subtitle_link: https://en.wikipedia.org/wiki/Naomi_Novik
 tags: [fiction]
-img: 
+img: spinning_silver_thumbnail.jpg
 categories: reading
 rating: 4.5
 ---
