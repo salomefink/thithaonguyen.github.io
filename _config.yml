@@ -1,40 +1,5 @@
-title: Working in progress
-description: Working in progress
-baseurl: ""
-url: "thithaonguyen.github.io"
-
-title-separator: "-"
-
-author:
-  name: Thi Thao Nguyen
-  github: thithaonguyen
-  facebook: thao.t.nguyen.68
-  email: thithaonguyen1268@gmail.com
-
-
-# Build settings
-timezone: "Brisbane"
-markdown: kramdown
-kramdown:
-  input: GFM
-highlighter: rouge
-permalink: /:categories/:title
-# paginate: 24
-# paginate_path: "/thought/page-:num"
-
-# Facebook App ID
-# fb_app_id: ""
-
-sass:
-  style: compact
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - CNAME
-
-plugins:
-  - jekyll-feed
-
-# theme: jekyll-theme-architect
+title: Architect theme
+description: Architect is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-architect
