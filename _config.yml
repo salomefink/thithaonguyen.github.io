@@ -37,3 +37,4 @@ plugins:
   - jekyll-feed
 
 # theme: jekyll-theme-architect
+theme: jekyll-theme-architect
